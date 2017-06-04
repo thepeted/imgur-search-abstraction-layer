@@ -6,8 +6,8 @@
 3. I can get a list of the most recently submitted search strings.
 
 ## Example usage
-`http://thepeted-imgur-search-abstraction-layer/search/grumpy%20cats`
+`https://thepeted-imgur-search-abstract.herokuapp.com/search/grumpy%20cats`
 
-`http://thepeted-imgur-search-abstraction-layer/search/lolcats?offset=2`
+`https://thepeted-imgur-search-abstract.herokuapp.com/search/lolcats?offset=2`
 
-`http://thepeted-imgur-search-abstraction-layer/latest`
+`https://thepeted-imgur-search-abstract.herokuapp.com/latest/`
